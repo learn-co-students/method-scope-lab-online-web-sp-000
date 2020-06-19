@@ -1,3 +1,5 @@
-def catch_phrase
+
+bozo = "It's-a me, Mario!"
+def catch_phrase(phrase)
   puts phrase
 end
